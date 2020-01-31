@@ -32,7 +32,19 @@
 - 해당 라이브러리는 요청시 json 데이터를 java Object로 변환해주는 필터이다.
 - 응답시 java Object를 json 데이터로 변환해주는 필터이다.
  
+## 8. Git 사용법
+- git init
+- git add .
+
+- git config --global "ssar@nate.com"
+- git config --global "ssar"
+
+- git commit -m "스프링 레거시 테스트 완료"
+- git remote add origin https://github.com/codingspecialist/spring-legacy-test.git
+- git push origin master
  
- 
- 
+ ## 9. Git 재배포
+ - git add .
+ - git commit -m "스프링 레거시 테스트 완료 2"
+ - git push origin master
  
